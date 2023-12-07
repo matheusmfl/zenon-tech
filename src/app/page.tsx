@@ -1,10 +1,10 @@
 import AboutUs from '@/components/AboutUs'
-import Section1 from '@/components/Section1'
+import { HeroSection } from '@/components/HeroSection'
 
 export default function Home() {
   return (
     <main>
-      <Section1 />
+      <HeroSection />
       <AboutUs />
     </main>
   )
