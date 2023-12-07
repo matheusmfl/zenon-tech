@@ -1,4 +1,4 @@
-# Nome do Seu Projeto
+# Nome do projeto
 
 Zenon Tech
 
@@ -48,7 +48,7 @@ components/: Componentes React reutilizáveis.
 styles/: Estilos globais e configuração do Tailwind CSS.
 public/: Arquivos estáticos.
 
-### Contribuindo
+## Contribuindo
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
 Licença
