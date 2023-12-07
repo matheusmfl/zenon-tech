@@ -6,7 +6,7 @@ import { Menu } from 'lucide-react'
 
 export function Header() {
   return (
-    <header className="bg-neutral-950">
+    <header className="bg-neutral-900 ">
       <Container>
         <div className="px-6 py-3 flex items-center justify-between">
           <Image src={logo} alt="Logo" />
