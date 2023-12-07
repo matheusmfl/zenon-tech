@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Raleway, Roboto } from 'next/font/google'
+import { Raleway } from 'next/font/google'
 import './globals.css'
 import { Header } from '@/components/Header'
 
