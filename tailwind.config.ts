@@ -53,6 +53,7 @@ module.exports = {
       },
       fontFamily: {
         raleWay: 'var(--font-raleway)',
+        roboto: 'var(--font-roboto)',
       },
       borderRadius: {
         lg: 'var(--radius)',
