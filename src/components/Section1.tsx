@@ -5,7 +5,7 @@ function Section1() {
   return (
     <section className="bg-slate-950 ">
       <Container>
-        <h1>Olá</h1>
+        <h1 className="text-red-200">Olá</h1>
       </Container>
     </section>
   )
