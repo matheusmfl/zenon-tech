@@ -51,7 +51,7 @@ function AboutUs() {
               </li>
             </ul>
           </div>
-          <div className="mt-20">
+          <div className="mt-20 mb-[46px]">
             <Image
               className="-ml-[165px] scale-[1.4]"
               src={AboutUsMockUp}
