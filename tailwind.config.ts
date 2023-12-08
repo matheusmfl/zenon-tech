@@ -51,6 +51,12 @@ module.exports = {
           foreground: 'hsl(var(--card-foreground))',
         },
       },
+      backgroundColor: {
+        'glasmorphism-opacity': 'rgba(255, 255, 255, 0.11);',
+      },
+      boxShadow: {
+        'glasmorphism-shadow': '8px 8px 8px rgba(0, 0, 0, 0.16);',
+      },
       fontFamily: {
         raleWay: 'var(--font-raleway)',
         roboto: 'var(--font-roboto)',
